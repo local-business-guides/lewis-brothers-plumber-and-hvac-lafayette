@@ -23,6 +23,9 @@
 - [Best Plumber Lafayette for Home Plumbing Help](https://local-business-guides.github.io/lewis-brothers-plumber-and-hvac-lafayette/best-plumber-lafayette/): Best Plumber Lafayette for practical plumbing help in Lafayette, Colorado. Review what to ask, then call Lewis Brothers Plumber & HVAC today.
 - [Top Rated Plumber Lafayette for Plumbing Questions](https://local-business-guides.github.io/lewis-brothers-plumber-and-hvac-lafayette/top-rated-plumber-lafayette/): Top Rated Plumber Lafayette for thoughtful plumbing guidance in Lafayette, Colorado. Check what to ask before you call Lewis Brothers Plumber & HVAC today.
 
+## Newsroom
+- [Lewis Brothers Plumber & HVAC Publishes New Guide to Lafayette Plumber](https://local-business-guides.github.io/lewis-brothers-plumber-and-hvac-lafayette/news/2026-11-07-lewis-brothers-plumber-hvac-publishes-new-guide-to/): Lewis Brothers Plumber & HVAC published a guide to Lafayette Plumber, with related video and audio versions available this week. (2026-11-07)
+
 ## Pages
 - [Lafayette Plumber in Colorado](https://local-business-guides.github.io/lewis-brothers-plumber-and-hvac-lafayette/): Get plumbing and HVAC help for your Lafayette home or business from a team ready to listen and help you plan the next step. Call +1720-790-3316.
 - [About Lewis Brothers Plumber & HVAC](https://local-business-guides.github.io/lewis-brothers-plumber-and-hvac-lafayette/about/): About Lewis Brothers Plumber & HVAC, Lafayette.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/lewis-brothers-plumber-and-hvac-lafayette/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/lewis-brothers-plumber-and-hvac-lafayette/news/rss.xml)
 - [Main resource site](https://lewis-brothers-lafayette-plumber.localwebsites.chatgpt.site)
